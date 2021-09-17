@@ -1,6 +1,8 @@
 # PONG-with-JS
 A simple classic game remade using JavaScript and sounds, is possible to change the defficulty if changes the enemy speed or the ball speed.
 
+*IT'S NOT THE END!* I intend to return and increment the game with levels, imagens, make it more actrative. 
+
 Besides to commit all the archives, you can access the game using this link: 
 https://preview.p5js.org/ricardosipe/present/o2CPy6ey5
 
